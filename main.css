@@ -1,0 +1,35 @@
+body {
+    background-color: lightgray;
+}
+
+.css-class li {
+    color: olive;
+}
+
+#number-one {
+    color: red;
+    font-size: 40px;
+    font-style: italic;
+    height: 150px;
+    width: 50%;
+}
+
+
+p {
+    height: 40px;
+    background-color: purple ;
+    color: white
+    
+    border-color: white;
+    border-style: solid;
+}
+
+
+#lorem {
+    border: 2px solid black;
+    margin-top: 200px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+}
+
